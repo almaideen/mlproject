@@ -79,49 +79,49 @@
     "Lib/site-packages/ipykernel/trio_runner.py",
     "Lib/site-packages/ipykernel/zmqshell.py",
     "Lib/site-packages/ipykernel_launcher.py",
-    "Lib/site-packages/ipykernel/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/__main__.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/_eventloop_macos.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/_version.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/comm/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/comm/__pycache__/comm.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/comm/__pycache__/manager.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/compiler.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/connect.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/control.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/datapub.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/debugger.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/displayhook.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/embed.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/eventloops.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/gui/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/gui/__pycache__/gtk3embed.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/gui/__pycache__/gtkembed.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/heartbeat.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/blocking.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/channels.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/client.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/constants.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/ipkernel.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/manager.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/inprocess/__pycache__/socket.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/iostream.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/ipkernel.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/jsonutil.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/kernelapp.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/kernelbase.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/kernelspec.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/log.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/parentpoller.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/pickleutil.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/pylab/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/pylab/__pycache__/backend_inline.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/pylab/__pycache__/config.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/serialize.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/trio_runner.cpython-312.pyc",
-    "Lib/site-packages/ipykernel/__pycache__/zmqshell.cpython-312.pyc",
-    "Lib/site-packages/__pycache__/ipykernel_launcher.cpython-312.pyc"
+    "Lib/site-packages/ipykernel/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/_eventloop_macos.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/_version.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/comm/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/comm/__pycache__/comm.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/comm/__pycache__/manager.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/compiler.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/connect.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/control.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/datapub.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/debugger.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/displayhook.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/embed.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/eventloops.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/gui/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/gui/__pycache__/gtk3embed.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/gui/__pycache__/gtkembed.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/heartbeat.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/blocking.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/channels.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/client.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/constants.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/ipkernel.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/manager.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/inprocess/__pycache__/socket.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/iostream.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/ipkernel.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/jsonutil.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/kernelapp.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/kernelbase.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/kernelspec.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/log.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/parentpoller.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/pickleutil.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/pylab/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/pylab/__pycache__/backend_inline.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/pylab/__pycache__/config.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/serialize.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/trio_runner.cpython-310.pyc",
+    "Lib/site-packages/ipykernel/__pycache__/zmqshell.cpython-310.pyc",
+    "Lib/site-packages/__pycache__/ipykernel_launcher.cpython-310.pyc"
   ],
   "fn": "ipykernel-6.29.5-pyh4bbf305_0.conda",
   "license": "BSD-3-Clause",
@@ -132,7 +132,7 @@
   "md5": "18df5fc4944a679e085e0e8f31775fc8",
   "name": "ipykernel",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\ipykernel-6.29.5-pyh4bbf305_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -545,175 +545,175 @@
         "size_in_bytes": 512
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/__main__.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/__main__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/_eventloop_macos.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/_eventloop_macos.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/_version.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/_version.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/comm/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/comm/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/comm/__pycache__/comm.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/comm/__pycache__/comm.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/comm/__pycache__/manager.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/comm/__pycache__/manager.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/compiler.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/compiler.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/connect.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/connect.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/control.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/control.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/datapub.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/datapub.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/debugger.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/debugger.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/displayhook.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/displayhook.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/embed.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/embed.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/eventloops.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/eventloops.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/gui/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/gui/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/gui/__pycache__/gtk3embed.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/gui/__pycache__/gtk3embed.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/gui/__pycache__/gtkembed.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/gui/__pycache__/gtkembed.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/heartbeat.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/heartbeat.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/blocking.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/blocking.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/channels.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/channels.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/client.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/client.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/constants.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/constants.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/ipkernel.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/ipkernel.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/manager.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/manager.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/socket.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/inprocess/__pycache__/socket.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/iostream.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/iostream.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/ipkernel.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/ipkernel.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/jsonutil.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/jsonutil.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/kernelapp.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/kernelapp.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/kernelbase.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/kernelbase.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/kernelspec.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/kernelspec.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/log.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/log.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/parentpoller.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/parentpoller.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/pickleutil.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/pickleutil.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/pylab/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/pylab/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/pylab/__pycache__/backend_inline.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/pylab/__pycache__/backend_inline.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/pylab/__pycache__/config.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/pylab/__pycache__/config.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/serialize.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/serialize.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/trio_runner.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/trio_runner.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/ipykernel/__pycache__/zmqshell.cpython-312.pyc",
+        "_path": "Lib/site-packages/ipykernel/__pycache__/zmqshell.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/__pycache__/ipykernel_launcher.cpython-312.pyc",
+        "_path": "Lib/site-packages/__pycache__/ipykernel_launcher.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

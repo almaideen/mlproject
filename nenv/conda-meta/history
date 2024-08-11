@@ -1,29 +1,36 @@
-==> 2024-08-03 06:50:45 <==
-# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py create -p nenv python
+==> 2024-08-11 05:19:47 <==
+# cmd: C:\ProgramData\anaconda3\Scripts\conda-script.py create -p nenv python==3.10
 # conda version: 24.1.2
 +defaults/noarch::tzdata-2024a-h04d1e81_0
 +defaults/win-64::bzip2-1.0.8-h2bbff1b_6
 +defaults/win-64::ca-certificates-2024.7.2-haa95532_0
-+defaults/win-64::expat-2.6.2-hd77b12b_0
 +defaults/win-64::libffi-3.4.4-hd77b12b_1
-+defaults/win-64::openssl-3.0.14-h827c3e9_0
-+defaults/win-64::pip-24.0-py312haa95532_0
-+defaults/win-64::python-3.12.4-h14ffc60_1
-+defaults/win-64::setuptools-69.5.1-py312haa95532_0
++defaults/win-64::openssl-1.1.1w-h2bbff1b_0
++defaults/win-64::pip-24.0-py310haa95532_0
++defaults/win-64::python-3.10.0-h96c0403_3
++defaults/win-64::setuptools-72.1.0-py310haa95532_0
 +defaults/win-64::sqlite-3.45.3-h2bbff1b_0
 +defaults/win-64::tk-8.6.14-h0416ee5_0
-+defaults/win-64::vc-14.2-h2eaa2aa_4
-+defaults/win-64::vs2015_runtime-14.29.30133-h43f2093_4
-+defaults/win-64::wheel-0.43.0-py312haa95532_0
++defaults/win-64::vc-14.40-h2eaa2aa_0
++defaults/win-64::vs2015_runtime-14.40.33807-h98bb1dd_0
++defaults/win-64::wheel-0.43.0-py310haa95532_0
 +defaults/win-64::xz-5.4.6-h8cc25b3_1
 +defaults/win-64::zlib-1.2.13-h8cc25b3_1
-# update specs: ['python']
-==> 2024-08-03 07:39:08 <==
-# cmd: c:\ProgramData\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix c:/Users/Moham/mlproject/nenv ipykernel -y
+# update specs: ['python==3.10']
+==> 2024-08-11 05:27:09 <==
+# cmd: c:\ProgramData\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix c:/Users/Moham/mlproject/nenv --update-deps --force-reinstall ipykernel -y
 # conda version: 24.1.2
+-defaults/noarch::tzdata-2024a-h04d1e81_0
+-defaults/win-64::bzip2-1.0.8-h2bbff1b_6
 -defaults/win-64::ca-certificates-2024.7.2-haa95532_0
--defaults/win-64::openssl-3.0.14-h827c3e9_0
--defaults/win-64::vs2015_runtime-14.29.30133-h43f2093_4
+-defaults/win-64::openssl-1.1.1w-h2bbff1b_0
+-defaults/win-64::pip-24.0-py310haa95532_0
+-defaults/win-64::python-3.10.0-h96c0403_3
+-defaults/win-64::setuptools-72.1.0-py310haa95532_0
+-defaults/win-64::sqlite-3.45.3-h2bbff1b_0
+-defaults/win-64::vs2015_runtime-14.40.33807-h98bb1dd_0
+-defaults/win-64::wheel-0.43.0-py310haa95532_0
+-defaults/win-64::zlib-1.2.13-h8cc25b3_1
 +conda-forge/noarch::asttokens-2.4.1-pyhd8ed1ab_0
 +conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_0
 +conda-forge/noarch::comm-0.2.2-pyhd8ed1ab_0
@@ -41,29 +48,41 @@
 +conda-forge/noarch::packaging-24.1-pyhd8ed1ab_0
 +conda-forge/noarch::parso-0.8.4-pyhd8ed1ab_0
 +conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::pip-24.2-pyhd8ed1ab_0
 +conda-forge/noarch::platformdirs-4.2.2-pyhd8ed1ab_0
 +conda-forge/noarch::prompt-toolkit-3.0.47-pyha770c72_0
 +conda-forge/noarch::pure_eval-0.2.3-pyhd8ed1ab_0
 +conda-forge/noarch::pygments-2.18.0-pyhd8ed1ab_0
 +conda-forge/noarch::python-dateutil-2.9.0-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-72.1.0-pyhd8ed1ab_0
 +conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
 +conda-forge/noarch::stack_data-0.6.2-pyhd8ed1ab_0
 +conda-forge/noarch::traitlets-5.14.3-pyhd8ed1ab_0
 +conda-forge/noarch::typing_extensions-4.12.2-pyha770c72_0
++conda-forge/noarch::tzdata-2024a-h0c530f3_0
 +conda-forge/noarch::wcwidth-0.2.13-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.44.0-pyhd8ed1ab_0
 +conda-forge/noarch::zipp-3.19.2-pyhd8ed1ab_0
++conda-forge/win-64::bzip2-1.0.8-h2466b09_7
 +conda-forge/win-64::ca-certificates-2024.7.4-h56e8100_0
++conda-forge/win-64::debugpy-1.8.5-py310h9e98ed7_0
++conda-forge/win-64::jupyter_core-5.7.2-py310h5588dad_0
 +conda-forge/win-64::krb5-1.21.3-hdf4eb48_0
 +conda-forge/win-64::libsodium-1.0.18-h8d14728_1
++conda-forge/win-64::libsqlite-3.46.0-h2466b09_0
++conda-forge/win-64::libzlib-1.2.13-h2466b09_6
 +conda-forge/win-64::openssl-3.3.1-h2466b09_2
++conda-forge/win-64::psutil-6.0.0-py310ha8f682b_0
++conda-forge/win-64::python-3.10.14-h4de0772_0_cpython
++conda-forge/win-64::python_abi-3.10-4_cp310
++conda-forge/win-64::pywin32-306-py310h00ffb61_2
++conda-forge/win-64::pyzmq-26.1.0-py310h656833d_0
++conda-forge/win-64::sqlite-3.46.0-h2466b09_0
++conda-forge/win-64::tornado-6.4.1-py310ha8f682b_0
 +conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
 +conda-forge/win-64::vc14_runtime-14.40.33810-ha82c5b3_20
 +conda-forge/win-64::vs2015_runtime-14.40.33810-h3bf8584_20
 +conda-forge/win-64::zeromq-4.3.5-he1f189c_4
-+defaults/win-64::debugpy-1.6.7-py312hd77b12b_0
-+defaults/win-64::jupyter_core-5.7.2-py312haa95532_0
-+defaults/win-64::psutil-5.9.0-py312h2bbff1b_0
-+defaults/win-64::pywin32-305-py312h2bbff1b_0
-+defaults/win-64::pyzmq-25.1.2-py312hd77b12b_0
-+defaults/win-64::tornado-6.4.1-py312h827c3e9_0
++conda-forge/win-64::zlib-1.2.13-h2466b09_6
 # update specs: ['ipykernel']
+# neutered specs: ['python==3.10.14']

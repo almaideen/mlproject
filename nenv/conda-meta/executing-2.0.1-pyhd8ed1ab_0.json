@@ -22,11 +22,11 @@
     "Lib/site-packages/executing/executing.py",
     "Lib/site-packages/executing/py.typed",
     "Lib/site-packages/executing/version.py",
-    "Lib/site-packages/executing/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/executing/__pycache__/_exceptions.cpython-312.pyc",
-    "Lib/site-packages/executing/__pycache__/_position_node_finder.cpython-312.pyc",
-    "Lib/site-packages/executing/__pycache__/executing.cpython-312.pyc",
-    "Lib/site-packages/executing/__pycache__/version.cpython-312.pyc"
+    "Lib/site-packages/executing/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/executing/__pycache__/_exceptions.cpython-310.pyc",
+    "Lib/site-packages/executing/__pycache__/_position_node_finder.cpython-310.pyc",
+    "Lib/site-packages/executing/__pycache__/executing.cpython-310.pyc",
+    "Lib/site-packages/executing/__pycache__/version.cpython-310.pyc"
   ],
   "fn": "executing-2.0.1-pyhd8ed1ab_0.conda",
   "license": "MIT",
@@ -37,7 +37,7 @@
   "md5": "e16be50e378d8a4533b989035b196ab8",
   "name": "executing",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\executing-2.0.1-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\executing-2.0.1-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -140,23 +140,23 @@
         "size_in_bytes": 21
       },
       {
-        "_path": "Lib/site-packages/executing/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/executing/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/executing/__pycache__/_exceptions.cpython-312.pyc",
+        "_path": "Lib/site-packages/executing/__pycache__/_exceptions.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/executing/__pycache__/_position_node_finder.cpython-312.pyc",
+        "_path": "Lib/site-packages/executing/__pycache__/_position_node_finder.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/executing/__pycache__/executing.cpython-312.pyc",
+        "_path": "Lib/site-packages/executing/__pycache__/executing.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/executing/__pycache__/version.cpython-312.pyc",
+        "_path": "Lib/site-packages/executing/__pycache__/version.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

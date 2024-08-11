@@ -26,12 +26,12 @@
     "Lib/site-packages/stack_data/serializing.py",
     "Lib/site-packages/stack_data/utils.py",
     "Lib/site-packages/stack_data/version.py",
-    "Lib/site-packages/stack_data/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/stack_data/__pycache__/core.cpython-312.pyc",
-    "Lib/site-packages/stack_data/__pycache__/formatting.cpython-312.pyc",
-    "Lib/site-packages/stack_data/__pycache__/serializing.cpython-312.pyc",
-    "Lib/site-packages/stack_data/__pycache__/utils.cpython-312.pyc",
-    "Lib/site-packages/stack_data/__pycache__/version.cpython-312.pyc"
+    "Lib/site-packages/stack_data/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/stack_data/__pycache__/core.cpython-310.pyc",
+    "Lib/site-packages/stack_data/__pycache__/formatting.cpython-310.pyc",
+    "Lib/site-packages/stack_data/__pycache__/serializing.cpython-310.pyc",
+    "Lib/site-packages/stack_data/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/stack_data/__pycache__/version.cpython-310.pyc"
   ],
   "fn": "stack_data-0.6.2-pyhd8ed1ab_0.conda",
   "license": "MIT",
@@ -42,7 +42,7 @@
   "md5": "e7df0fdd404616638df5ece6e69ba7af",
   "name": "stack_data",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\stack_data-0.6.2-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -152,27 +152,27 @@
         "size_in_bytes": 22
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/core.cpython-312.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/core.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/formatting.cpython-312.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/formatting.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/serializing.cpython-312.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/serializing.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/version.cpython-312.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/version.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

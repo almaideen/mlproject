@@ -21,9 +21,9 @@
     "Lib/site-packages/matplotlib_inline/__init__.py",
     "Lib/site-packages/matplotlib_inline/backend_inline.py",
     "Lib/site-packages/matplotlib_inline/config.py",
-    "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-312.pyc",
-    "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-312.pyc"
+    "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-310.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-310.pyc"
   ],
   "fn": "matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
   "license": "BSD-3-Clause",
@@ -34,7 +34,7 @@
   "md5": "779345c95648be40d22aaa89de7d4254",
   "name": "matplotlib-inline",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -123,15 +123,15 @@
         "size_in_bytes": 3911
       },
       {
-        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-312.pyc",
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-312.pyc",
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

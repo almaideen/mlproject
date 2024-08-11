@@ -20,10 +20,10 @@
     "Lib/site-packages/zipp/compat/__init__.py",
     "Lib/site-packages/zipp/compat/py310.py",
     "Lib/site-packages/zipp/glob.py",
-    "Lib/site-packages/zipp/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/zipp/compat/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/zipp/compat/__pycache__/py310.cpython-312.pyc",
-    "Lib/site-packages/zipp/__pycache__/glob.cpython-312.pyc"
+    "Lib/site-packages/zipp/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/zipp/compat/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/zipp/compat/__pycache__/py310.cpython-310.pyc",
+    "Lib/site-packages/zipp/__pycache__/glob.cpython-310.pyc"
   ],
   "fn": "zipp-3.19.2-pyhd8ed1ab_0.conda",
   "license": "MIT",
@@ -34,7 +34,7 @@
   "md5": "49808e59df5535116f6878b2a820d6f4",
   "name": "zipp",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\zipp-3.19.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\zipp-3.19.2-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -123,19 +123,19 @@
         "size_in_bytes": 3082
       },
       {
-        "_path": "Lib/site-packages/zipp/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/zipp/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/zipp/compat/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/zipp/compat/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/zipp/compat/__pycache__/py310.cpython-312.pyc",
+        "_path": "Lib/site-packages/zipp/compat/__pycache__/py310.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/zipp/__pycache__/glob.cpython-312.pyc",
+        "_path": "Lib/site-packages/zipp/__pycache__/glob.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

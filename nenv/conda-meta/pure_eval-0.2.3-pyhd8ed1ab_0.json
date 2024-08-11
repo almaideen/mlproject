@@ -22,11 +22,11 @@
     "Lib/site-packages/pure_eval/py.typed",
     "Lib/site-packages/pure_eval/utils.py",
     "Lib/site-packages/pure_eval/version.py",
-    "Lib/site-packages/pure_eval/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/pure_eval/__pycache__/core.cpython-312.pyc",
-    "Lib/site-packages/pure_eval/__pycache__/my_getattr_static.cpython-312.pyc",
-    "Lib/site-packages/pure_eval/__pycache__/utils.cpython-312.pyc",
-    "Lib/site-packages/pure_eval/__pycache__/version.cpython-312.pyc"
+    "Lib/site-packages/pure_eval/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/core.cpython-310.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/my_getattr_static.cpython-310.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/pure_eval/__pycache__/version.cpython-310.pyc"
   ],
   "fn": "pure_eval-0.2.3-pyhd8ed1ab_0.conda",
   "license": "MIT",
@@ -37,7 +37,7 @@
   "md5": "0f051f09d992e0d08941706ad519ee0e",
   "name": "pure_eval",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\pure_eval-0.2.3-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -140,23 +140,23 @@
         "size_in_bytes": 21
       },
       {
-        "_path": "Lib/site-packages/pure_eval/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/pure_eval/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/pure_eval/__pycache__/core.cpython-312.pyc",
+        "_path": "Lib/site-packages/pure_eval/__pycache__/core.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/pure_eval/__pycache__/my_getattr_static.cpython-312.pyc",
+        "_path": "Lib/site-packages/pure_eval/__pycache__/my_getattr_static.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/pure_eval/__pycache__/utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/pure_eval/__pycache__/utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/pure_eval/__pycache__/version.cpython-312.pyc",
+        "_path": "Lib/site-packages/pure_eval/__pycache__/version.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

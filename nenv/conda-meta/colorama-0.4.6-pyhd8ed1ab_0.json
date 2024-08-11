@@ -28,19 +28,19 @@
     "Lib/site-packages/colorama/tests/winterm_test.py",
     "Lib/site-packages/colorama/win32.py",
     "Lib/site-packages/colorama/winterm.py",
-    "Lib/site-packages/colorama/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/colorama/__pycache__/ansi.cpython-312.pyc",
-    "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-312.pyc",
-    "Lib/site-packages/colorama/__pycache__/initialise.cpython-312.pyc",
-    "Lib/site-packages/colorama/tests/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/colorama/tests/__pycache__/ansi_test.cpython-312.pyc",
-    "Lib/site-packages/colorama/tests/__pycache__/ansitowin32_test.cpython-312.pyc",
-    "Lib/site-packages/colorama/tests/__pycache__/initialise_test.cpython-312.pyc",
-    "Lib/site-packages/colorama/tests/__pycache__/isatty_test.cpython-312.pyc",
-    "Lib/site-packages/colorama/tests/__pycache__/utils.cpython-312.pyc",
-    "Lib/site-packages/colorama/tests/__pycache__/winterm_test.cpython-312.pyc",
-    "Lib/site-packages/colorama/__pycache__/win32.cpython-312.pyc",
-    "Lib/site-packages/colorama/__pycache__/winterm.cpython-312.pyc"
+    "Lib/site-packages/colorama/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansi.cpython-310.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-310.pyc",
+    "Lib/site-packages/colorama/__pycache__/initialise.cpython-310.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/ansi_test.cpython-310.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/ansitowin32_test.cpython-310.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/initialise_test.cpython-310.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/isatty_test.cpython-310.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/colorama/tests/__pycache__/winterm_test.cpython-310.pyc",
+    "Lib/site-packages/colorama/__pycache__/win32.cpython-310.pyc",
+    "Lib/site-packages/colorama/__pycache__/winterm.cpython-310.pyc"
   ],
   "fn": "colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
   "license": "BSD-3-Clause",
@@ -51,7 +51,7 @@
   "md5": "3faab06a954c2a04039983f2c4a50d99",
   "name": "colorama",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0.tar.bz2",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\colorama-0.4.6-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -196,55 +196,55 @@
         "size_in_bytes": 7134
       },
       {
-        "_path": "Lib/site-packages/colorama/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/__pycache__/ansi.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/__pycache__/ansi.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/__pycache__/initialise.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/__pycache__/initialise.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/tests/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/tests/__pycache__/ansi_test.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/ansi_test.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/tests/__pycache__/ansitowin32_test.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/ansitowin32_test.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/tests/__pycache__/initialise_test.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/initialise_test.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/tests/__pycache__/isatty_test.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/isatty_test.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/tests/__pycache__/utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/tests/__pycache__/winterm_test.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/tests/__pycache__/winterm_test.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/__pycache__/win32.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/__pycache__/win32.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/colorama/__pycache__/winterm.cpython-312.pyc",
+        "_path": "Lib/site-packages/colorama/__pycache__/winterm.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

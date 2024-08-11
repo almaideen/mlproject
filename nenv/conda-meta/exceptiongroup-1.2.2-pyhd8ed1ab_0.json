@@ -22,12 +22,12 @@
     "Lib/site-packages/exceptiongroup/_suppress.py",
     "Lib/site-packages/exceptiongroup/_version.py",
     "Lib/site-packages/exceptiongroup/py.typed",
-    "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-312.pyc",
-    "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-312.pyc",
-    "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-312.pyc",
-    "Lib/site-packages/exceptiongroup/__pycache__/_suppress.cpython-312.pyc",
-    "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-312.pyc"
+    "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_suppress.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-310.pyc"
   ],
   "fn": "exceptiongroup-1.2.2-pyhd8ed1ab_0.conda",
   "license": "MIT and PSF-2.0",
@@ -38,7 +38,7 @@
   "md5": "d02ae936e42063ca46af6cdad2dbd1e0",
   "name": "exceptiongroup",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\exceptiongroup-1.2.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\exceptiongroup-1.2.2-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -141,27 +141,27 @@
         "size_in_bytes": 0
       },
       {
-        "_path": "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-312.pyc",
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-312.pyc",
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-312.pyc",
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_suppress.cpython-312.pyc",
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_suppress.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-312.pyc",
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

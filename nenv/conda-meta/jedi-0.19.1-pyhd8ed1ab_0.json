@@ -1892,90 +1892,90 @@
     "Lib/site-packages/jedi/third_party/typeshed/third_party/3/waitress/utilities.pyi",
     "Lib/site-packages/jedi/third_party/typeshed/third_party/3/waitress/wasyncore.pyi",
     "Lib/site-packages/jedi/utils.py",
-    "Lib/site-packages/jedi/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/__main__.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/_compatibility.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/classes.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/completion.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/completion_cache.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/environment.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/errors.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/exceptions.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/file_name.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/helpers.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/interpreter.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/keywords.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/project.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/refactoring/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/refactoring/__pycache__/extract.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/replstartup.cpython-312.pyc",
-    "Lib/site-packages/jedi/api/__pycache__/strings.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/cache.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/common.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/debug.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/file_io.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/analysis.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/arguments.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/base_value.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/cache.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/__pycache__/access.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/__pycache__/getattr_static.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/__pycache__/mixed.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__main__.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/functions.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/compiled/__pycache__/value.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/context.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/docstring_utils.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/docstrings.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/dynamic_params.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/filters.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/finder.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/flow_analysis.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/annotation.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/base.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/conversion.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/generics.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/stub_value.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/type_var.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/typeshed.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/typing.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/gradual/__pycache__/utils.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/helpers.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/imports.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/lazy_value.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/names.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/param.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/parser_cache.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/recursion.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/references.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/signature.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/star_args.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/syntax_tree.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/sys_path.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/__pycache__/utils.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/decorator.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/dynamic_arrays.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/function.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/instance.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/iterable.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/klass.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/module.cpython-312.pyc",
-    "Lib/site-packages/jedi/inference/value/__pycache__/namespace.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/parser_utils.cpython-312.pyc",
-    "Lib/site-packages/jedi/plugins/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jedi/plugins/__pycache__/django.cpython-312.pyc",
-    "Lib/site-packages/jedi/plugins/__pycache__/flask.cpython-312.pyc",
-    "Lib/site-packages/jedi/plugins/__pycache__/pytest.cpython-312.pyc",
-    "Lib/site-packages/jedi/plugins/__pycache__/registry.cpython-312.pyc",
-    "Lib/site-packages/jedi/plugins/__pycache__/stdlib.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/settings.cpython-312.pyc",
-    "Lib/site-packages/jedi/__pycache__/utils.cpython-312.pyc"
+    "Lib/site-packages/jedi/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/_compatibility.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/classes.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/completion.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/completion_cache.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/environment.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/errors.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/exceptions.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/file_name.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/helpers.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/interpreter.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/keywords.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/project.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/refactoring/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/refactoring/__pycache__/extract.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/replstartup.cpython-310.pyc",
+    "Lib/site-packages/jedi/api/__pycache__/strings.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/cache.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/common.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/debug.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/file_io.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/analysis.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/arguments.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/base_value.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/cache.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/__pycache__/access.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/__pycache__/getattr_static.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/__pycache__/mixed.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/functions.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/compiled/__pycache__/value.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/context.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/docstring_utils.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/docstrings.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/dynamic_params.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/filters.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/finder.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/flow_analysis.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/annotation.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/base.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/conversion.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/generics.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/stub_value.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/type_var.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/typeshed.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/typing.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/gradual/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/helpers.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/imports.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/lazy_value.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/names.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/param.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/parser_cache.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/recursion.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/references.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/signature.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/star_args.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/syntax_tree.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/sys_path.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/decorator.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/dynamic_arrays.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/function.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/instance.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/iterable.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/klass.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/module.cpython-310.pyc",
+    "Lib/site-packages/jedi/inference/value/__pycache__/namespace.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/parser_utils.cpython-310.pyc",
+    "Lib/site-packages/jedi/plugins/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jedi/plugins/__pycache__/django.cpython-310.pyc",
+    "Lib/site-packages/jedi/plugins/__pycache__/flask.cpython-310.pyc",
+    "Lib/site-packages/jedi/plugins/__pycache__/pytest.cpython-310.pyc",
+    "Lib/site-packages/jedi/plugins/__pycache__/registry.cpython-310.pyc",
+    "Lib/site-packages/jedi/plugins/__pycache__/stdlib.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/settings.cpython-310.pyc",
+    "Lib/site-packages/jedi/__pycache__/utils.cpython-310.pyc"
   ],
   "fn": "jedi-0.19.1-pyhd8ed1ab_0.conda",
   "license": "MIT",
@@ -1986,7 +1986,7 @@
   "md5": "81a3be0b2023e1ea8555781f0ad904a2",
   "name": "jedi",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\jedi-0.19.1-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\jedi-0.19.1-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -15172,339 +15172,339 @@
         "size_in_bytes": 4680
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/__main__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/__main__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/_compatibility.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/_compatibility.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/classes.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/classes.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/completion.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/completion.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/completion_cache.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/completion_cache.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/environment.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/environment.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/errors.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/errors.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/exceptions.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/exceptions.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/file_name.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/file_name.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/helpers.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/helpers.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/interpreter.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/interpreter.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/keywords.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/keywords.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/project.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/project.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/refactoring/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/refactoring/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/refactoring/__pycache__/extract.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/refactoring/__pycache__/extract.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/replstartup.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/replstartup.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/api/__pycache__/strings.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/api/__pycache__/strings.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/cache.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/cache.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/common.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/common.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/debug.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/debug.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/file_io.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/file_io.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/analysis.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/analysis.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/arguments.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/arguments.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/base_value.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/base_value.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/cache.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/cache.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/access.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/access.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/getattr_static.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/getattr_static.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/mixed.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/mixed.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__main__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/__main__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/functions.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/subprocess/__pycache__/functions.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/value.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/compiled/__pycache__/value.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/context.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/context.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/docstring_utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/docstring_utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/docstrings.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/docstrings.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/dynamic_params.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/dynamic_params.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/filters.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/filters.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/finder.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/finder.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/flow_analysis.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/flow_analysis.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/annotation.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/annotation.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/base.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/base.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/conversion.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/conversion.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/generics.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/generics.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/stub_value.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/stub_value.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/type_var.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/type_var.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/typeshed.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/typeshed.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/typing.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/typing.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/gradual/__pycache__/utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/helpers.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/helpers.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/imports.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/imports.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/lazy_value.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/lazy_value.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/names.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/names.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/param.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/param.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/parser_cache.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/parser_cache.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/recursion.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/recursion.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/references.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/references.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/signature.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/signature.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/star_args.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/star_args.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/syntax_tree.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/syntax_tree.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/sys_path.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/sys_path.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/__pycache__/utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/__pycache__/utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/decorator.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/decorator.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/dynamic_arrays.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/dynamic_arrays.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/function.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/function.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/instance.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/instance.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/iterable.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/iterable.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/klass.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/klass.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/module.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/module.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/namespace.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/inference/value/__pycache__/namespace.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/parser_utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/parser_utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/plugins/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/plugins/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/plugins/__pycache__/django.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/plugins/__pycache__/django.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/plugins/__pycache__/flask.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/plugins/__pycache__/flask.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/plugins/__pycache__/pytest.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/plugins/__pycache__/pytest.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/plugins/__pycache__/registry.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/plugins/__pycache__/registry.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/plugins/__pycache__/stdlib.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/plugins/__pycache__/stdlib.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/settings.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/settings.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jedi/__pycache__/utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/jedi/__pycache__/utils.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

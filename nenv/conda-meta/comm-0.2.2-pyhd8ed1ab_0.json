@@ -19,8 +19,8 @@
     "Lib/site-packages/comm/__init__.py",
     "Lib/site-packages/comm/base_comm.py",
     "Lib/site-packages/comm/py.typed",
-    "Lib/site-packages/comm/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/comm/__pycache__/base_comm.cpython-312.pyc"
+    "Lib/site-packages/comm/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/comm/__pycache__/base_comm.cpython-310.pyc"
   ],
   "fn": "comm-0.2.2-pyhd8ed1ab_0.conda",
   "license": "BSD-3-Clause",
@@ -31,7 +31,7 @@
   "md5": "948d84721b578d426294e17a02e24cbb",
   "name": "comm",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\comm-0.2.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\comm-0.2.2-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -106,11 +106,11 @@
         "size_in_bytes": 0
       },
       {
-        "_path": "Lib/site-packages/comm/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/comm/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/comm/__pycache__/base_comm.cpython-312.pyc",
+        "_path": "Lib/site-packages/comm/__pycache__/base_comm.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],

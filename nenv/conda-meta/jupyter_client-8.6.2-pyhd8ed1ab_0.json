@@ -61,44 +61,44 @@
     "Lib/site-packages/jupyter_client/threaded.py",
     "Lib/site-packages/jupyter_client/utils.py",
     "Lib/site-packages/jupyter_client/win_interrupt.py",
-    "Lib/site-packages/jupyter_client/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/_version.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/adapter.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/asynchronous/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/asynchronous/__pycache__/client.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/blocking/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/blocking/__pycache__/client.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/channels.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/channelsabc.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/client.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/clientabc.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/connect.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/consoleapp.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/ioloop/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/ioloop/__pycache__/manager.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/ioloop/__pycache__/restarter.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/jsonutil.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/kernelapp.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/kernelspec.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/kernelspecapp.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/launcher.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/localinterfaces.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/manager.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/managerabc.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/multikernelmanager.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/provisioning/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/provisioning/__pycache__/factory.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/provisioning/__pycache__/local_provisioner.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/provisioning/__pycache__/provisioner_base.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/restarter.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/runapp.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/session.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/ssh/__pycache__/__init__.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/ssh/__pycache__/forward.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/ssh/__pycache__/tunnel.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/threaded.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/utils.cpython-312.pyc",
-    "Lib/site-packages/jupyter_client/__pycache__/win_interrupt.cpython-312.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/_version.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/adapter.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/asynchronous/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/asynchronous/__pycache__/client.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/blocking/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/blocking/__pycache__/client.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/channels.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/channelsabc.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/client.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/clientabc.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/connect.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/consoleapp.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/ioloop/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/ioloop/__pycache__/manager.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/ioloop/__pycache__/restarter.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/jsonutil.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/kernelapp.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/kernelspec.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/kernelspecapp.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/launcher.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/localinterfaces.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/manager.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/managerabc.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/multikernelmanager.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/provisioning/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/provisioning/__pycache__/factory.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/provisioning/__pycache__/local_provisioner.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/provisioning/__pycache__/provisioner_base.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/restarter.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/runapp.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/session.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/ssh/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/ssh/__pycache__/forward.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/ssh/__pycache__/tunnel.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/threaded.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/jupyter_client/__pycache__/win_interrupt.cpython-310.pyc",
     "Scripts/jupyter-kernel-script.py",
     "Scripts/jupyter-kernelspec-script.py",
     "Scripts/jupyter-run-script.py",
@@ -115,7 +115,7 @@
   "md5": "3cdbb2fa84490e5fd44c9f9806c0d292",
   "name": "jupyter_client",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\jupyter_client-8.6.2-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\jupyter_client-8.6.2-pyhd8ed1ab_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -449,155 +449,155 @@
         "size_in_bytes": 1516
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/_version.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/_version.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/adapter.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/adapter.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/asynchronous/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/asynchronous/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/asynchronous/__pycache__/client.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/asynchronous/__pycache__/client.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/blocking/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/blocking/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/blocking/__pycache__/client.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/blocking/__pycache__/client.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/channels.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/channels.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/channelsabc.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/channelsabc.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/client.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/client.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/clientabc.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/clientabc.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/connect.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/connect.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/consoleapp.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/consoleapp.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/ioloop/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/ioloop/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/ioloop/__pycache__/manager.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/ioloop/__pycache__/manager.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/ioloop/__pycache__/restarter.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/ioloop/__pycache__/restarter.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/jsonutil.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/jsonutil.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/kernelapp.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/kernelapp.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/kernelspec.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/kernelspec.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/kernelspecapp.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/kernelspecapp.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/launcher.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/launcher.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/localinterfaces.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/localinterfaces.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/manager.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/manager.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/managerabc.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/managerabc.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/multikernelmanager.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/multikernelmanager.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/factory.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/factory.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/local_provisioner.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/local_provisioner.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/provisioner_base.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/provisioning/__pycache__/provisioner_base.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/restarter.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/restarter.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/runapp.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/runapp.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/session.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/session.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/ssh/__pycache__/__init__.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/ssh/__pycache__/__init__.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/ssh/__pycache__/forward.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/ssh/__pycache__/forward.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/ssh/__pycache__/tunnel.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/ssh/__pycache__/tunnel.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/threaded.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/threaded.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/utils.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/utils.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/jupyter_client/__pycache__/win_interrupt.cpython-312.pyc",
+        "_path": "Lib/site-packages/jupyter_client/__pycache__/win_interrupt.cpython-310.pyc",
         "path_type": "pyc_file"
       },
       {

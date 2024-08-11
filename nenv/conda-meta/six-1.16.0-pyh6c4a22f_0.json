@@ -17,7 +17,7 @@
     "Lib/site-packages/six-1.16.0.dist-info/direct_url.json",
     "Lib/site-packages/six-1.16.0.dist-info/top_level.txt",
     "Lib/site-packages/six.py",
-    "Lib/site-packages/__pycache__/six.cpython-312.pyc"
+    "Lib/site-packages/__pycache__/six.cpython-310.pyc"
   ],
   "fn": "six-1.16.0-pyh6c4a22f_0.tar.bz2",
   "license": "MIT",
@@ -28,7 +28,7 @@
   "md5": "e5f25f8dbc060e9a8d912e432202afc2",
   "name": "six",
   "noarch": "python",
-  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\six-1.16.0-pyh6c4a22f_0.tar.bz2",
+  "package_tarball_full_path": "C:\\Users\\Moham\\.conda\\pkgs\\six-1.16.0-pyh6c4a22f_0",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -96,7 +96,7 @@
         "size_in_bytes": 34549
       },
       {
-        "_path": "Lib/site-packages/__pycache__/six.cpython-312.pyc",
+        "_path": "Lib/site-packages/__pycache__/six.cpython-310.pyc",
         "path_type": "pyc_file"
       }
     ],
